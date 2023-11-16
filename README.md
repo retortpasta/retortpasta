@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retortpasta)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retortpasta&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,c,cs,java,blender,unity)](https://skillicons.dev)
 <!--
 **retortpasta/retortpasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
